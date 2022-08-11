@@ -16,6 +16,7 @@
   <img align="center" alt="Jonas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jonas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Jonas-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Jonas-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/c#-original.svg">
 </div>
 
   ##
