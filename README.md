@@ -1,6 +1,6 @@
 ### Hi there, I am Jonas Augusto  👋
 
-- 🌱 Studying FullStack, at the moment Frontend
+- 🌱 Studying FullStack, Backend at the moment.
 
 ##
 
