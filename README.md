@@ -1,7 +1,7 @@
 ### Hi there, I am Jonas Augusto  👋
 
 - 🌱 Studying FullStack, Backend at the moment.
-- 
+
 - :iphone: +55(79)99933-9044
 - :e-mail: jonasaugusto99@gmail.com
 
