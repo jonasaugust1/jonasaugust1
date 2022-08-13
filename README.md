@@ -2,9 +2,6 @@
 
 - 🌱 Studying FullStack, Backend at the moment.
 
-## Contact 
-- :iphone: +55(79)99933-9044
-- :e-mail: jonasaugusto99@gmail.com
 
 ##
 
@@ -31,5 +28,10 @@
   <a href = "mailto:jonasaugusto99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jonasaug/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+  
+  ## Contact 
+- :iphone: +55(79)99933-9044
+- :e-mail: jonasaugusto99@gmail.com
 
  ![Snake animation](https://github.com/jonasaugust1/jonasaugust1/blob/output/github-contribution-grid-snake.svg)
+  
