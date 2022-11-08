@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonasaugust1" alt="jonasaugust1" /></a> </p>
 
-- 🌱 I’m currently learning **Backend development with NodeJs at Gama Academy**
+- 🌱 I’m currently learning **Mobile development with React Native**
 
 - 👨‍💻 My porfolio is available at [https://www.jonasaugusto.com/](https://www.jonasaugusto.com/)
 
