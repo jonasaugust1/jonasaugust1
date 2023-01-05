@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonasaugust1" alt="jonasaugust1" /></a> </p>
 
-- 🌱 I’m currently learning **Mobile development with React Native**
+- 🌱 I’m currently working at **ZTaurus and Sinqia**
 
 - 👨‍💻 My porfolio is available at [https://www.jonasaugusto.com/](https://www.jonasaugusto.com/)
 
