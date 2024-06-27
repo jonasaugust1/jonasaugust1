@@ -11,7 +11,7 @@
   </a> 
 </p>
 
-- 🌱 I’m currently working at **Sinqia**
+- 🌱 I’m currently working at **MTM Tecnologia**
 
 - 👨‍💻 My porfolio is available at [https://www.jonasaugusto.com/](https://www.jonasaugusto.com/)
 
