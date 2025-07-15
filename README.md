@@ -11,7 +11,7 @@
   </a> 
 </p>
 
-- 🌱 I’m currently working at **[https://www.xpi.com.br/?campaignid=1478724190&adgroupid=100136116515&feeditemid=&targetid=aud-927183993105:kwd-10378410&loc_interest_ms=&loc_physical_ms=9100421&matchtype=b&network=g&device=c&devicemodel=&ifmobile=&ifmobile=0&ifsearch=1&ifsearch=&ifcontent=0&ifcontent=&creative=652824223141&keyword=xp&placement=&target=&utm_source=google&utm_medium=cpc&utm_term=xp&utm_campaign=GGLE_PESQ_Brand_Geral_tROAS&gad_source=1&gad_campaignid=1478724190&gbraid=0AAAAAC-CYhpd-aQrMEv3AL6T1sP-_8DAW&gclid=CjwKCAjw1dLDBhBoEiwAQNRiQVulJnYTQBosCVB-4B2Voht1fq-QwekioF3R6uWVpBsK0AEIuOke0BoC-xAQAvD_BwE](XP Inc)**
+- 🌱 I’m currently working at **[XP Inc](https://www.xpi.com.br/)**
 
 - 👨‍💻 My porfolio is available at [https://www.jonasaugusto.com/](https://www.jonasaugusto.com/)
 
