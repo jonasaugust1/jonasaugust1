@@ -11,7 +11,7 @@
   </a> 
 </p>
 
-- 🌱 I’m currently working at **[XP Inc](https://www.xpi.com.br/)**
+- 🌱 I’m currently working at **[Avanade](https://www.avanade.com/)**
 
 - 👨‍💻 My porfolio is available at [https://www.jonasaugusto.com/](https://www.jonasaugusto.com/)
 
