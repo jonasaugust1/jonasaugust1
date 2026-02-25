@@ -5,11 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=jonasaugust1&label=Profile%20views&color=0e75b6&style=flat" alt="jonasaugust1" /> 
 </p>
 
-<p align="left"> 
+<!-- <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=jonasaugust1" alt="jonasaugust1" />
   </a> 
-</p>
+</p> -->
 
 - 🌱 I’m currently working at **[Avanade](https://www.avanade.com/)**
 
@@ -74,17 +74,8 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonasaugust1&show_icons=true&locale=en&layout=compact" alt="jonasaugust1" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonasaugust1&show_icons=true&locale=en" alt="jonasaugust1" />
-</p>
-
-<p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonasaugust1&" alt="jonasaugust1" />
 </p>
-
 
 ![Snake animation](https://github.com/jonasaugust1/jonasaugust1/blob/output/github-contribution-grid-snake.svg)
   
