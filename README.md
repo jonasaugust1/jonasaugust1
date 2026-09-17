@@ -84,6 +84,7 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=jonasaugust1" alt="jonasaugust1" />
 </p>
 
+<h3 align="center">🐍 Contribution Graph Snake</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jonasaugust1/jonasaugust1/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jonasaugust1/jonasaugust1/output/github-snake.svg" />
