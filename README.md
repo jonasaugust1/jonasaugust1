@@ -79,7 +79,7 @@
   </a>
 </p>
 
-<h3 align="left">Streak Stats:</h3>
+<h3 align="left">🔥 GitHub Streak Stats</h3>
 <p align="left">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=jonasaugust1" alt="jonasaugust1" />
 </p>
