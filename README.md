@@ -79,9 +79,13 @@
   </a>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonasaugust1&" alt="jonasaugust1" />
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=jonasaugust1" alt="jonasaugust1" />
 </p>
 
-![Snake animation](https://github.com/jonasaugust1/jonasaugust1/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jonasaugust1/jonasaugust1/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jonasaugust1/jonasaugust1/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jonasaugust1/jonasaugust1/output/github-snake.svg" />
+</picture>
   
