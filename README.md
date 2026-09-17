@@ -5,11 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=jonasaugust1&label=Profile%20views&color=0e75b6&style=flat" alt="jonasaugust1" /> 
 </p>
 
-<!-- <p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jonasaugust1" alt="jonasaugust1" />
-  </a> 
-</p> -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy-alpha.vercel.app/?username=jonasaugust1&column=3&row=2&margin-w=15" alt="jonasaugust1" />
+</a>
 
 - 🌱 I’m currently working at **[Avanade](https://www.avanade.com/)**
 
